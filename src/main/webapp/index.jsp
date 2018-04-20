@@ -6,5 +6,6 @@
 <h2> iwayqtech.info web  </h2>
 <h2> Project code changes to  test  Auto Build </h2> 
 <h3> This is the  tag line :  Instance information site iwayq.com </h3>
+<h3> Testing Build Pipe Line View  </h3>
 </body>
 </html>
